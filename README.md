@@ -16,19 +16,35 @@ Este projeto representa minha evolução na área de tecnologia e análise de si
 
 ### Tela inicial / Login
 
-![Tela de login](assets/tela-login.png)
+![Tela de login](assets/tela_de_login.png)
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/home.png)
 
-### Área de estudos
+### Área de Disciplinas
 
-![Área de estudos](assets/area-aluno.png)
+![Área de estudos](assets/adicionar_disciplinas.png)
 
-### Simulados
+### Tarefas
 
-![Simulados](assets/simulados.png)
+![Simulados](assets/adicionar_tarefas.png)
+
+### Área dos Quizzes
+
+![Simulados](assets/area_dos_quizzes.png)
+
+### Área do Usuário
+
+![Simulados](assets/area_do_usuario.png)
+
+### Quiz funcionando
+
+![Simulados](assets/quiz.png)
+
+### Resultado do Quiz
+
+![Simulados](assets/resultado_quiz.png)
 
 ## Status do projeto
 🚧 Projeto em desenvolvimento
