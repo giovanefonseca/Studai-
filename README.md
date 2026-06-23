@@ -16,7 +16,7 @@ Este projeto representa minha evolução na área de tecnologia e análise de si
 
 ### Tela inicial / Login
 
-![Tela de login](assets/tela_de_login.png)
+![Tela de login](assets/tela_login.png)
 
 ### Dashboard
 
