@@ -1,6 +1,6 @@
 ## STUDAI — Plataforma de Estudos Cooperativa
 
-O STUDAI é uma plataforma de estudos desenvolvida com o objetivo de auxiliar alunos na organização da rotina de aprendizagem, acesso a conteúdos, resolução de atividades e acompanhamento do desempenho.
+A **STUDAI** nasceu com a ideia de aproximar alunos de diferentes cursos para estudarem juntos, trocarem dúvidas e compartilharem conhecimento. Mais do que entregar respostas prontas, a proposta é incentivar a colaboração entre pessoas e tornar o aprendizado mais participativo, humano e coletivo.
 
 Este projeto representa minha evolução na área de tecnologia e análise de sistemas, envolvendo ideias de organização de dados, experiência do usuário, estruturação de telas e funcionalidades voltadas para educação.
 
